@@ -6,6 +6,7 @@ This repository hosts a **Heart Disease Prediction Website**, which provides use
 - **GitHub Pages:** [Heart Website](https://abhinaycs.github.io/Heart-Website/)
  ![image alt](https://github.com/Abhinaycs/Heart-Website/blob/64cd8d168a4ab78b88149efb34df57406f63f0a1/Screenshot%202024-12-12%20213025.png)
 - **Tiiny.site:** [Heart Website](https://heart-website.tiiny.site/)
+- **Chat bot:** ![image alt](https://github.com/Abhinaycs/Heart-Website/blob/11f66975ab99b4eadf63e8d886ebf3ffaaa1c1cf/Screenshot%202024-12-12%20213640.png)
 
 ---
 
